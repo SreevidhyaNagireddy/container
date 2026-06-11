@@ -50,6 +50,7 @@
     "OneVariableDeclarationPerLine" : true,
     "OnlyOneTrailingClosureArgument" : true,
     "OrderedImports" : true,
+    "NoEmptyTrailingClosureParentheses" : true,
     "ReplaceForEachWithForLoop" : true,
     "ReturnVoidInsteadOfEmptyTuple" : true,
     "TypeNamesShouldBeCapitalized" : true,
